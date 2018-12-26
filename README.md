@@ -9,4 +9,4 @@ How to  run this ?
 2)After cloning install all the dependencies as mentioned above.
 3)then run generator.py with all 128epochs
 
-All the credit goes to Ji-Sung Kim for their great effort.
+Credit goes to Ji-Sung Kim for their great effort.
