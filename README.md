@@ -1,12 +1,12 @@
 # AI_Music_Composer
 
 #Dependencies
-Keras
-music21
+1)Keras
+2)music21
 
 How to  run this ?
-clone this repository.
-After cloning install all the dependencies as mentioned above.
-then run generator.py with all 128epochs
+1)clone this repository.
+2)After cloning install all the dependencies as mentioned above.
+3)then run generator.py with all 128epochs
 
 All the credit goes to Ji-Sung Kim for their great effort.
